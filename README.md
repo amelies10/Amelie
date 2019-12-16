@@ -1,4 +1,5 @@
 <h1>TP Architecture</h1>
-<p>Voici le fichier PHP permettant de gérer la pagination d'une liste de commentaire.</p>
-<p>Veuillez cloner mon dépot et déposer sur le votre (en ligne) une version corrigée du tp.<br>
-Vous prendrez en charge les extrémités (première page et dernière page) dans l'affichage des numéros de pages.</p>
+<p>J'ai changé la ligne n°26 et la ligne n°64 car à l'ouverture du fichier je me suis rendu compte que celui-ci affichait les pages négatives et les pages supérieures même si elles n'existaient pas</p>
+
+
+
